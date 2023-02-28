@@ -12,8 +12,11 @@ This project was developped for CS241: Foundations of Sequential Programs over t
 * All steps can be ran at once for the full compilation process
 
 ## Steps
-* Scanning
-  * transforming code from a sequence of individual characters into meaningful chunks called tokens for easier processing
+### Scanning
+[ASSEMBLER-step](https://github.com/Romanhudaj11/C-COMPILER/tree/main/ASSEMBLER)
+Transforming code from a sequence of individual characters into meaningful chunks called tokens for easier processing
+  
+  
 * Assembler
   *  Assembly Language ==> Machine Language
   *  Given an assembly program, it translates the file into binary (machine language) that the CPU can understand directly 
