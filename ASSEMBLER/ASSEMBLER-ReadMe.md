@@ -18,6 +18,9 @@
 * the assembler produces an error message when it receives an invalid program
 * O(n) time where n is the "size" of the input (ie: # tokens)
 * Uses only C++ std library 
+* Utilizes 2 passes: 
+    * first pass: construct a map (label-table) 
+    * second pass: analyze tokens and generate output
 
 **Instructions it works for: **
 
