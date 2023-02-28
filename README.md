@@ -20,6 +20,11 @@ This project was developped for CS241: Foundations of Sequential Programs over t
 
 Transforming code from a sequence of individual characters into meaningful chunks called tokens for easier processing
   
+### Parser
+
+* Parses C-code
+* Operates on the output of the scanner
+* implements the LR(1) parsing algorithm based on a DFA
   
 ### Assembler
 
@@ -29,12 +34,6 @@ Transforming code from a sequence of individual characters into meaningful chunk
 
   *  Assembly Language ==> Machine Language
   *  Given an assembly program, it translates the file into binary (machine language) that the CPU can understand directly 
-
-### Parser
-
-* Parses C-code
-* Operates on the output of the scanner
-* implements the LR(1) parsing algorithm based on a DFA
 
 ## MIPS?
 
