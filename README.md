@@ -5,7 +5,7 @@ This project was developped for CS241: Foundations of Sequential Programs over t
 
 ## Features 
 
-## MIPS
+## MIPS?
 
 MIPS Assembly Langage (MAL) is the assembly language for MIPS processors. It is currently one of the major processors in the embedded processor market.
 
