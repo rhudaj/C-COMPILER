@@ -2,7 +2,7 @@
 * Assembler for MIPS assembly language 
 * Written in C++ 
 
-Steps: 
+**Steps:**
 
 1. Scanning the input
 2. Identify the instructions (and the register values or immediate values)
