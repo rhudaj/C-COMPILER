@@ -8,6 +8,8 @@ This project was developped for CS241: Foundations of Sequential Programs over t
 * High Cohesion and minimized coupling 
   * Each file performs one function
   * Steps of the compiler are modularized/seperated so that it is easily modifiable to other languages
+* Each step (folder in this repo) can be ran individually
+* All steps can be ran at once for the full compilation process
 
 ## Steps
 * Scanning
