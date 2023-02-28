@@ -22,7 +22,7 @@
     * first pass: construct a map (label-table) 
     * second pass: analyze tokens and generate output
 
-**Instructions it works for: **
+**Instructions it works for:**
 
 Works for all labels and the following instructions: 
 
