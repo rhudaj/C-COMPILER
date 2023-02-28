@@ -16,7 +16,7 @@ This project was developped for CS241: Foundations of Sequential Programs over t
 
 [SCANNING-step](https://github.com/Romanhudaj11/C-COMPILER/tree/main/SCANNER)
 
-[SCANNING-ReadMe]
+[SCANNING-ReadMe](https://github.com/Romanhudaj11/C-COMPILER/blob/main/SCANNER/SCANNER-ReadMe.md)
 
 Transforming code from a sequence of individual characters into meaningful chunks called tokens for easier processing
   
