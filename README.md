@@ -4,6 +4,11 @@ C++ project: compiles C-code to MIPS assembly language. Includes all stages of c
 This project was developped for CS241: Foundations of Sequential Programs over the course of the Winter 2023 semester. 
 
 ## Features 
+* Scanning
+  * transforming code from a sequence of individual characters into meaningful chunks called tokens for easier processing
+* Assembler
+  *  Assembly Language ==> Machine Language
+  *  Given an assembly program, it translates the file into binary (machine language) that the CPU can understand directly 
 
 ## MIPS?
 
