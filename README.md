@@ -22,6 +22,10 @@ Transforming code from a sequence of individual characters into meaningful chunk
   
 ### Parser
 
+[PARSER-step](https://github.com/Romanhudaj11/C-COMPILER/tree/main/PARSER)
+
+[PARSER-ReadMe](https://github.com/Romanhudaj11/C-COMPILER/blob/main/PARSER/PARSER-ReadMe.md)- for more info
+
 * Parses C-code
 * Operates on the output of the scanner
 * implements the LR(1) parsing algorithm based on a DFA
