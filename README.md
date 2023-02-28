@@ -20,6 +20,8 @@ Transforming code from a sequence of individual characters into meaningful chunk
 
 [ASSEMBLER-step](https://github.com/Romanhudaj11/C-COMPILER/tree/main/ASSEMBLER)
 
+[ASSEMBLER-ReadMe](https://github.com/Romanhudaj11/C-COMPILER/tree/main/ASSEMBLER) - for more info
+
   *  Assembly Language ==> Machine Language
   *  Given an assembly program, it translates the file into binary (machine language) that the CPU can understand directly 
 
