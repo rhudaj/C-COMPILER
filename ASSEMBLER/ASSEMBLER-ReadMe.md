@@ -24,7 +24,7 @@
 
 **Instructions it works for:**
 
-Works for all labels and the following instructions: 
+Works for all labels, comments and the following instructions: 
 
 Instruction |Example
 ------------|------------------
