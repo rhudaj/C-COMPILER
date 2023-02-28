@@ -5,6 +5,9 @@ This project was developped for CS241: Foundations of Sequential Programs over t
 
 ## Features 
 * Efficient: each step runs in Linear Time 
+* High Cohesion and minimized coupling 
+ * Each file performs one function
+ * Steps of the compiler are modularized/seperated so that it is easily modifiable to other languages
 
 ## Steps
 * Scanning
